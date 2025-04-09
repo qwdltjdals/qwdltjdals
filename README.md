@@ -39,6 +39,12 @@
 
 ---
 
+### 📚 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwdltjdals&layout=compact&theme=radical)
+
+---
+
 <!-- 깃허브 통계 -->
 ### 📊 GitHub Stats
 
