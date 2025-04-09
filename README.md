@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=skeat's%20GitHub&fontSize=40&fontColor=6A5ACD)
 
 <!-- 인사말 -->
-<h3 align="center" style="font-family: 'cursive'; font-weight: bold; font-size : 200px;">
+## <h3 align="center" style="font-family: 'cursive'; font-weight: bold;">
   <i>Engineering elegant solutions for real-world problems.</i><br>
 </h3>
 
