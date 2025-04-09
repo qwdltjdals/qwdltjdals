@@ -4,7 +4,6 @@
 <!-- 인사말 -->
 <h3 align="center" style="font-family: 'cursive'; font-weight: bold;">
   <i>Engineering elegant solutions for real-world problems.</i><br>
-  <sub style="font-size: 14px; color: #888;">세상의 문제를 우아하게 풀어내는 기술</sub>
 </h3>
 
 안녕하세요!  
