@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FF69B4&height=200&section=header&text=Skeat's%20GitHub&fontSize=40&fontAlignY=35descAlignY=60&descAlign=62
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FF69B4&height=200&section=header&text=Skeat's%20GitHub&fontSize=40&fontAlignY=35&desc=qwdltjdals@gmail.com&descAlignY=60&descAlign=62)
 
 <!-- 인사말 -->
 ### 🌸 Welcome to skeat's GitHub! 🌸
