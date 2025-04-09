@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=skeat's%20GitHub&fontSize=40&fontColor=6A5ACD)
 
 <!-- 인사말 -->
-###  Welcome to skeat's GitHub! 
+###  Engineering elegant solutions for real-world problems.
 
 안녕하세요!  
 풀스택 개발자 **skeat**입니다 👩‍💻  
