@@ -2,9 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=skeat's%20GitHub&fontSize=40&fontColor=6A5ACD)
 
 <!-- 인사말 -->
-<h3 align="center" style="font-family: 'cursive'; font-weight: bold;">
-  <i>Engineering elegant solutions for real-world problems.</i><br>
-</h3>
+## 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔 𝑒𝓁𝑒𝑔𝒶𝓃𝓉 𝓈𝑜𝓁𝓊𝓉𝒾𝑜𝓃𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝓁-𝓌𝑜𝓇𝓁𝒹 𝓅𝓇𝑜𝒷𝓁𝑒𝓂𝓈.
 
 안녕하세요!  
 풀스택 개발자 **skeat**입니다 👩‍💻  
