@@ -2,12 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E0BBE4,D8B4E2,CBAACB&height=200&section=header&text=Skeat's%20GitHub&fontSize=40&fontAlignY=40)
 
 <!-- 인사말 -->
-### 🌸 Welcome to skeat's GitHub! 🌸
+###  Welcome to skeat's GitHub! 
 
 안녕하세요!  
-프론트부터 백엔드까지 다루는 개발자 **skeat**입니다 👩‍💻  
+풀스택 개발자 **skeat**입니다 👩‍💻  
 `Spring Boot`, `React`, `넥사크로`를 사용합니다.  
-웹 표준에 맞게 작성하려고 노력중입니다.
 
 ---
 
