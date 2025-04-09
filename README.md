@@ -54,6 +54,5 @@
 
 ---
 
-<!-- 배너 푸터 -->
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:89f7fe,100:66a6ff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
