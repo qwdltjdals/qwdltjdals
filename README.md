@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=skeat's%20GitHub&fontSize=40&fontColor=6A5ACD
+![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=header&text=skeat's%20GitHub&fontSize=40&fontColor=6A5ACD)
 
 <!-- 인사말 -->
 ###  Welcome to skeat's GitHub! 
